@@ -1,8 +1,8 @@
 {
-    "username": "testersalikova",
+    "username": "testerusername",
     "domain": "@mail.ru",
     "password": "Mail&TestMail",
-    "to_email": "testersalikova@list.ru",
+    "to_email": "testeremail@list.ru",
     "env": "local",
     "browser": "firefox",
     "drivers_path": "",
