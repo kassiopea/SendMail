@@ -1,0 +1,10 @@
+{
+    "username": "testersalikova",
+    "domain": "@mail.ru",
+    "password": "Mail&TestMail",
+    "to_email": "testersalikova@list.ru",
+    "env": "local",
+    "browser": "firefox",
+    "drivers_path": "",
+    "name_web_driver": "geckodriver.exe"
+}

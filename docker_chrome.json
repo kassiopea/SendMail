@@ -1,0 +1,8 @@
+{
+    "username": "testersalikova",
+    "domain": "@mail.ru",
+    "password": "Mail&TestMail",
+    "to_email": "testersalikova@list.ru",
+    "browser": "chrome",
+    "env": "remote"
+}
