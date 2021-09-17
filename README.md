@@ -58,6 +58,6 @@
 ## Старт проекта
 - Установить зависимости `pip3 install -r requirements.txt`
 - Запустить докер контейнеры `docker-compose up -d`
-- Запустить тесты. Пример: `pytest tests/tests_compose_page.py --alluredir=./allure/allure-results --config docker_chrome.json`
+- Запустить тесты. Пример: `pytest tests/tests_compose_page.py --alluredir=./allure/allure-results --config=docker_chrome.json`
 - Посмотреть результаты тестов в allure (с историей прогонов) по url `http://localhost:5252/allure-docker-service-ui/`
 - Остановить докер контейнеры `docker-compose down`
